@@ -1,0 +1,19 @@
+.date-button{
+    border: none;
+    border-radius: 20px;
+    width: 50px;
+    height: 40px;
+    font-size: 22px;
+    margin: 5px;
+    background-color: whitesmoke;
+}
+
+.date-button.outside{
+    border: none;
+    border-radius: 20px;
+    width: 50px;
+    height: 40px;
+    font-size: 22px;
+    margin: 5px;
+    background-color: lightgray;
+}
